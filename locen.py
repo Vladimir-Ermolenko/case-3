@@ -1,0 +1,5 @@
+time = "Period for deposit to be held (years):"
+starting_cap = "Seed capital ($):"
+interest = "Interest rate (%/mth.):"
+refill = "Investment infusion ($/mth.):"
+yearn = "year"

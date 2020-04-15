@@ -1,0 +1,5 @@
+time = "Kapitalallokationszeitraum (yhr):"
+starting_cap = "Startkapital ($):"
+interest = "Zinssatz (%/mt.):"
+refill = "Investitionsspritzen ($/mt.):"
+yearn = "jahr"
